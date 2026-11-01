@@ -135,7 +135,7 @@
   },
   "homepage": "https://github.com/KrishnaMBhattarai/pythonicjs#readme",
   "devDependencies": {
-    "@biomejs/biome": "^2.5.15",
+    "@biomejs/biome": "^2.6.4",
     "c8": "^12.0.0",
     "chai": "^6.3.0",
     "esbuild": "^0.28.2",
